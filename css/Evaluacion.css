@@ -1,0 +1,22 @@
+body
+{
+	background: #003F73;
+	color: white;
+	text-align: center;
+	font-size: 16px;
+}
+
+form
+{
+	width: 70%;
+	border: 20px solid;
+	margin: 0 auto;
+	background: darkgrey;
+	border-color: white;
+}
+
+input.botones
+{
+	background: lightblue;
+	color: blue;
+}
